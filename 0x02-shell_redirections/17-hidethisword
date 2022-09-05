@@ -1,2 +1,2 @@
 #!/bin/bash
-grep no bin
+grep -v bin
